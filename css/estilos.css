@@ -26,6 +26,13 @@
    #parrafo1{
        float: left;
    }
+   #parrafoC1{
+    float: left;
+}
+#imagenC1{
+   
+    float: right;
+   }
    #parrafo2{
        float: right;
    }
